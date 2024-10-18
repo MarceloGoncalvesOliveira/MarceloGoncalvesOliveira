@@ -1,7 +1,4 @@
-	GIRHUB	
-# 👋 Hello! Welcome to my Github profile.
-## My name is Marcelo Goncalves Oliveira and my nickname is "MarceloGO"!
-
+# My name is Marcelo Goncalves Oliveira 
 # Olá, sou um estudante em tecnologia!
 
 ## 🎓 Sobre Mim
@@ -13,15 +10,20 @@ Atualmente, sou estudante nas áreas de desenvolvimento e tecnologia, com foco e
 - **Python (Django)**: Estudando desenvolvimento de aplicações web robustas utilizando o framework Django.
 - **Cloud Computing**: Focado em serviços da AWS para implementar soluções escaláveis e eficientes em nuvem.
 - **GitHub**: Aprimorando o uso de controle de versão para colaborar e gerenciar projetos de desenvolvimento.
-- **Inglês**: Estudando gramática e fluência para melhorar minha comunicação técnica e profissional.
 - **IA**: Estudando as melhores práticas com Inteligência Artificial, com foco no ChatGPT.
 
-### 🎓 Futuro Acadêmico
-Em 2025, estou planejando iniciar uma graduação 📚  na área de tecnologia para consolidar e expandir meus conhecimentos técnicos e profissionais.
+  <div>
+<a href="https://github.com/MarceloGoncalvesOliveira">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloGoncalvesOliveira&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloGoncalvesOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## 💻 Tecnologias e Ferramentas
 Atualmente, estou aprendendo e aprimorando minhas habilidades com as seguintes tecnologias e ferramentas:
 - <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"   width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"   width="40" height="40"/>
+
+### 🎓 Futuro Acadêmico
+Em 2025, estou planejando iniciar uma graduação 📚  na área de tecnologia para consolidar e expandir meus conhecimentos técnicos e profissionais.
 
 ## 📞 Contatos
 <div>
@@ -33,17 +35,9 @@ Atualmente, estou aprendendo e aprimorando minhas habilidades com as seguintes t
     </a>   
 </div>
 
-<div>
-<a href="https://github.com/MarceloGoncalvesOliveira">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloGoncalvesOliveira&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloGoncalvesOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 ![Snake animation](https://github.com/MarceloGoncalvesOliveira/MarceloGoncalvesOliveira/blob/output/github-contribution-grid-snake.svg)
-
-<img width="42%" src="https://example.com/imagem1.png" alt="Imagem 1">
-<img width="50%" src="https://example.com/imagem2.png" alt="Imagem 2">
-
 
 
 
