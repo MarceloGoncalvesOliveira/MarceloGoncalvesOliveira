@@ -28,7 +28,7 @@ Atualmente, estou aprendendo e aprimorando minhas habilidades com as seguintes t
         <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>   
     <a href="https://github.com/MarceloGoncalvesOliveira" target="_blank">
-        <img loading="lazy" src=https://img.shields.io/badge/-GitHub-%23181717? style="for-the-badge&logo=github&logoColor=white" target="_blank">
+        <img loading="lazy" src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarceloGoncalvesOliveira)" target="_blank">
     </a>   	
 </div>
 
