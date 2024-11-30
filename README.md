@@ -9,7 +9,7 @@ Atualmente, sou estudante nas áreas de desenvolvimento e tecnologia, com foco e
 - **CyberSecurity**: Aprendizado constante de segurança cibernética defensiva e ofensiva, com o objetivo de obter certificações oficiais na área.  
 - **IA**: Estudando as melhores práticas com Inteligência Artificial, com foco no ChatGPT.
 
-  ## Estou em constante aprendizado para evoluir meus conhecimentos e funções na área tech, com o objetivo de crescer do nível júnior até o sênior. Sou apaixonado por tecnologia e dedicado a explorar novas possibilidades no mundo tech.
+Estou em constante aprendizado para evoluir meus conhecimentos e funções na área tech, com o objetivo de crescer do nível júnior até o sênior. Sou apaixonado por tecnologia e dedicado a explorar novas possibilidades no mundo tech.
 
   <div>
 <a href="https://github.com/MarceloGoncalvesOliveira">
