@@ -2,13 +2,15 @@
 ## 🎓 Sobre Mim
 Atualmente, sou estudante nas áreas de desenvolvimento e tecnologia, com foco em:
 
-- **Excel**: Aprendendo a utilizar funções avançadas e automações.
-- **LibreOffice Calc**: Desenvolvendo habilidades em planilhas e manipulação de dados.
-- **Linux**: Buscando certificações para aprofundar meu conhecimento em administração de sistemas operacionais e servidores.
-- **Python (Django)**: Estudando desenvolvimento de aplicações web robustas utilizando o framework Django.
-- **Cloud Computing**: Focado em serviços da AWS para implementar soluções escaláveis e eficientes em nuvem.
-- **GitHub**: Aprimorando o uso de controle de versão para colaborar e gerenciar projetos de desenvolvimento.
+- **Linux**: Aprendendo controle de servidores Linux com foco em Onboarding e Essential, além de buscar certificações como **LPI Essentials** e **LPIC**.  
+- **Python (POO)**: Aprendizado constante de programação orientada a objetos, com foco em desenvolvimento back-end.  
+- **Django**: Aprendendo constantemente o controle e aplicação do framework Django para desenvolvimento web.  
+- **AWS**: Aprendizado de uso da AWS como solução de Cloud Computing, com foco em escalabilidade e eficiência, e buscando certificações oficiais AWS.  
+- **CyberSecurity**: Aprendizado constante de segurança cibernética defensiva e ofensiva, com o objetivo de obter certificações oficiais na área.  
 - **IA**: Estudando as melhores práticas com Inteligência Artificial, com foco no ChatGPT.
+
+  ## Estou em constante aprendizado para evoluir meus conhecimentos e funções na área tech, com o objetivo de crescer do nível júnior até o sênior. Sou apaixonado por tecnologia e dedicado a explorar novas possibilidades no mundo tech.
+
   <div>
 <a href="https://github.com/MarceloGoncalvesOliveira">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloGoncalvesOliveira&layout=compact&langs_count=7&theme=dracula"/>
