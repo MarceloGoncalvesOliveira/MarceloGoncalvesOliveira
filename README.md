@@ -27,6 +27,9 @@ Atualmente, estou aprendendo e aprimorando minhas habilidades com as seguintes t
     <a href="https://www.linkedin.com/in/marcelo-goncalves-oliveira-11b7a2305" target="_blank">
         <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>   
+    <a href="https://github.com/MarceloGoncalvesOliveira" target="_blank">
+        <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>   	
 </div>
 
 
